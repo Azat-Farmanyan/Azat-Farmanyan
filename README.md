@@ -4,14 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-With over three years of experience in front-end development, focusing on Angular, JavaScript, and TypeScript, coupled with five years in graphic design, I bring a versatile skill set. My expertise includes deciphering complex code bases and quick adaptation to new technologies like Node.js. Proficient in Git, I excel in collaborating with cross-functional teams, supported by strong interpersonal communication skills. My design proficiency extends to Adobe Photoshop, Illustrator, and Figma, enhancing my ability to create visually appealing interfaces. Overall, my commitment to high-quality work and adaptability makes me valuable in both front-end development and graphic design.
+Hi! I'm Azat Farmanyan, a software engineer with a degree in Information Systems and Technologies. If they handed out diplomas for the amount of coffee consumed and lines of code written, I’d have a few more. Since March 2024, I've been developing web applications at Background Digital, where construction complexes like [River House](https://river-house.ru/) and [3 Red](https://3-red.com) trust me with their digital brains. I use Angular 2+, Node.js, and a whole bunch of other technologies to create intuitive interfaces, and Jest/Karma/Jasmine testing ensures my legendary commitment to "perfection."
 
-* 🌍  I'm based in Akhaltsikhe ( Georgia )
-* 🖥️  See my portfolio at [My website](http://azatfarmanyan.netlify.app/)
-* ✉️  You can contact me at [azat.farmanyan905@gmail.com](mailto:azat.farmanyan905@gmail.com)
-* 🧠  I'm learning Ionic Framework, Capacitor
-* 🤝  I'm open to collaborating on Open to collaborative projects in Angular, Ionic, JavaScript, TypeScript, and graphic design. Let's create something amazing together!
-* ⚡  Enthusiastic about tech evolution and eager to tackle challenging projects. Let's create something extraordinary!
+Before this, I spent over a year upgrading web stores at CyberiaSoft, turning websites into something sweet with HTML, CSS, SCSS, and Angular – all while under the eternal "we needed it yesterday" deadlines. Before that, at GeoAlphaSolution, I polished interfaces for projects like [FairContent.media](https://www.faircontent.media/home) and [Swiftness](http://www.swiftness.co.il/) – quite the reason for pride, if you ask me.
+
+I started my career as a true frontend developer at RsSchool, and later I dove into design at Apacer Technology and Bet888win, creating banners that grabbed attention just like my drive to perfect every line of code.
+
+I speak four languages, not just to communicate with code but with colleagues from different corners of the globe. My motto is to code with humor, test with patience, and always seek out perfect solutions – even if they turn out to be trickier than expected.
 
 ### Skills
 
