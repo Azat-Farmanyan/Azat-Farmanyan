@@ -22,12 +22,12 @@ I speak four languages, not just to communicate with code but with colleagues fr
 
 ### Socials
 
-Tel: +995 (592) 477 775
-Gmail: azat.farmanyan905@gmail.com
-Telegram: https://t.me/AzatFarmanyan
-Linkedin: http://linkedin.com/in/azat-farmanyan
-GitHub: https://github.com/Azat-Farmanyan
-Portfolio: https://azatfarmanyan.netlify.app/
+Tel: +995 (592) 477 775 <br>
+Gmail: azat.farmanyan905@gmail.com <br>
+Telegram: https://t.me/AzatFarmanyan <br>
+Linkedin: http://linkedin.com/in/azat-farmanyan <br>
+GitHub: https://github.com/Azat-Farmanyan <br>
+Portfolio: https://azatfarmanyan.netlify.app/ <br>
 
 ### Badges
 
