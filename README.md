@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Azat Farmanyan
 ======================================================================================================================================
 
-Frontend Developer
+Angular Developer
 ------------------
 
 Hi! My name is Azat Farmanyan, and I am a Frontend Developer specializing in Angular. I create high-performance, userfriendly web applications with a focus on clean code, responsive design, and seamless user experiences.
