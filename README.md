@@ -4,11 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hi! I'm Azat Farmanyan, a software engineer with a degree in Information Systems and Technologies. If they handed out diplomas for the amount of coffee consumed and lines of code written, I’d have a few more. Since October 2024, I have been working at Rick Masters as an Angular Developer, developing a web application for the company Novogor Prikamye.  Since March 2024, I've been developing web applications at Background Digital, where construction complexes like [River House](https://river-house.ru/) and [3 Red](https://3-red.com) trust me with their digital brains. I use Angular 2+, Node.js, and a whole bunch of other technologies to create intuitive interfaces, and Jest/Karma/Jasmine testing ensures my legendary commitment to "perfection."
-
-Before this, I spent over a year upgrading web stores at CyberiaSoft, turning websites into something sweet with HTML, CSS, SCSS, and Angular – all while under the eternal "we needed it yesterday" deadlines. Before that, at GeoAlphaSolution, I polished interfaces for projects like [FairContent.media](https://www.faircontent.media/home) and [Swiftness](http://www.swiftness.co.il/) – quite the reason for pride, if you ask me.
-
-I started my career as a true frontend developer at RsSchool, and later I dove into design at Apacer Technology and Bet888win, creating banners that grabbed attention just like my drive to perfect every line of code.
+Hi! My name is Azat Farmanyan, and I am a Frontend Developer specializing in Angular. I create high-performance, userfriendly web applications with a focus on clean code, responsive design, and seamless user experiences.
+I have extensive experience with various versions of Angular, from early releases to the latest versions, which allows
+me to adapt effectively to different project requirements. My core skills include TypeScript, JavaScript, RxJS, NGRX
+and SCSS, along with other preprocessors such as LESS and SASS, enabling me to build flexible and scalable
+interfaces.
+I excel in integrating REST APIs, managing state, and optimizing application performance. I also utilize testing tools
+like Jest and Karma to ensure code reliability and quality. With the ability to quickly grasp project requirements, I
+deliver solutions that enhance business efficiency and improve user satisfaction. My dedication to continuous
+learning and teamwork drives success in every project I undertake.
 
 I speak four languages, not just to communicate with code but with colleagues from different corners of the globe. My motto is to code with humor, test with patience, and always seek out perfect solutions – even if they turn out to be trickier than expected.
 
