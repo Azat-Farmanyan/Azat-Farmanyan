@@ -4,17 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Angular Developer
 ------------------
 
-Hi! My name is Azat Farmanyan, and I am a Frontend Developer specializing in Angular. I create high-performance, userfriendly web applications with a focus on clean code, responsive design, and seamless user experiences.
-I have extensive experience with various versions of Angular, from early releases to the latest versions, which allows
-me to adapt effectively to different project requirements. My core skills include TypeScript, JavaScript, RxJS, NGRX
-and SCSS, along with other preprocessors such as LESS and SASS, enabling me to build flexible and scalable
-interfaces.
-I excel in integrating REST APIs, managing state, and optimizing application performance. I also utilize testing tools
-like Jest and Karma to ensure code reliability and quality. With the ability to quickly grasp project requirements, I
-deliver solutions that enhance business efficiency and improve user satisfaction. My dedication to continuous
-learning and teamwork drives success in every project I undertake.
+I am Azat Farmanyan, a Full Stack developer with a focus on frontend and attention to detail. I specialize in creating user-friendly and high-performance web applications using Angular, TypeScript, SCSS, Node.js, and REST API. I am skilled in designing architecture, optimizing loading and performance, and making interfaces adaptive and intuitive. I care about clean and readable code, using lazy loading, state management, modular structure, and testing. It is important for me that the product is reliable, maintainable, and enjoyable for the end user.
 
-I speak four languages, not just to communicate with code but with colleagues from different corners of the globe. My motto is to code with humor, test with patience, and always seek out perfect solutions – even if they turn out to be trickier than expected.
+By choosing me, you get a developer who not only writes code but deeply understands business needs and cares about the final result. I am capable of working in a team, proposing solutions, bringing projects to perfection, and taking responsibility. From my side, you can expect stability, engagement, and genuine passion for what I do.
 
 ### Skills
 
