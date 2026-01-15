@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Angular Developer
 ------------------
 
-I am Azat Farmanyan, a Full Stack developer with a focus on frontend and attention to detail. I specialize in creating user-friendly and high-performance web applications using Angular, TypeScript, SCSS, Node.js, and REST API. I am skilled in designing architecture, optimizing loading and performance, and making interfaces adaptive and intuitive. I care about clean and readable code, using lazy loading, state management, modular structure, and testing. It is important for me that the product is reliable, maintainable, and enjoyable for the end user.
+I am Azat Farmanyan, a developer with a focus on frontend and attention to detail. I specialize in creating user-friendly and high-performance web applications using Angular, TypeScript, SCSS, Node.js, and REST API. I am skilled in designing architecture, optimizing loading and performance, and making interfaces adaptive and intuitive. I care about clean and readable code, using lazy loading, state management, modular structure, and testing. It is important for me that the product is reliable, maintainable, and enjoyable for the end user.
 
 By choosing me, you get a developer who not only writes code but deeply understands business needs and cares about the final result. I am capable of working in a team, proposing solutions, bringing projects to perfection, and taking responsibility. From my side, you can expect stability, engagement, and genuine passion for what I do.
 
